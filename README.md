@@ -3,7 +3,7 @@
 <p>
 Html | Css | JavaScript | Bootstrap
 <br>
-Esse projeto visava a construção de um layout como estilização de tabelas e formulários, marcação de página, e layout líquido com CSS e HTML.
+Single page de um layout com estilização de tabelas e formulários, marcação de página, e layout líquido com CSS e HTML.
 </p>
 
 [Deploy](https://museu-nacional-six.vercel.app/)<br>
