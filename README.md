@@ -6,7 +6,7 @@ Html | Css | JavaScript | Bootstrap
 Single page de um layout com estilização de tabelas e formulários, marcação de página, e layout líquido com CSS e HTML.
 </p>
 
-[Deploy](https://museu-nacional-six.vercel.app/)<br>
+Acesse no [site](https://museunacional.ml/)<br>
 
 <h2>📷 Preview</h2>
 
